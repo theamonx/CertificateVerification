@@ -4,3 +4,10 @@ It's a page I have made to verify the internship certificate (FRONT END ONLY). I
 # Link
 
 Live Site : [https://theamonx.github.io/CertificateVerification/](https://theamonx.github.io/CertificateVerification/)
+
+# Update
+I got same project at end of this internship and I improved it or you could say I totally changed it...
+
+**Updated Live url :** [https://certified-ebon.vercel.app/](https://certified-ebon.vercel.app/)
+
+**Repo Link :** [https://github.com/theamonx/Registration-Form](https://github.com/theamonx/Registration-Form)
